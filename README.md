@@ -1,12 +1,11 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 
 <h1 align="center">
-  🖖 Handemoji - Emoji Hand Gesture Detection Using TensorFlow
+  🖖 Handemoji - Hand Gesture Detection
 </h1>
 
 Handemoji is a simple AI-based hand gesture recognition that translates a hand pose into the Emoji. Using Tensorflow JS and its Handpose preloaded model to detect the hand object and its parts. Handsign also uses an additional library called Fingerpose to classify certain of custom hand gestures based on the finger position.
 
-#madewithTFJS
 # References & Libraries
 * [Tensorflow JS](https://www.tensorflow.org/js) - A Library for ML in JS.
 
