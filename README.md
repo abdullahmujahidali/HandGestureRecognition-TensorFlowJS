@@ -16,7 +16,5 @@ Handemoji is a simple AI-based hand gesture recognition that translates a hand p
 
 
 
-# Deploy to your site
-[![Deploy to DO](https://www.deploytodo.com/do-btn-blue-ghost.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/abdullahmujahidali/https://github.com/abdullahmujahidali/HandGestureRecognition-TensorFlowJS)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
